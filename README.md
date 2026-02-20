@@ -6,7 +6,7 @@
 
 Build falha se cobertura < 100%.
 
-<img align="right" src="https://raw.githubusercontent.com/DevAlanM/java-clean-architecture-tests/main/images/testes.png" />
+<img align="right" src="https://raw.githubusercontent.com/DevAlanM/java-clean-architecture-tests/main/img/testes.png" />
 
 ## Executar
 
