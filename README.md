@@ -5,6 +5,7 @@
 ## Garantia
 
 Build falha se cobertura < 100%.
+
 <img align="right" src="https://raw.githubusercontent.com/DevAlanM/java-clean-architecture-tests/main/images/teste.png" width="300px" />
 
 ## Executar
