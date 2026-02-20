@@ -1,12 +1,14 @@
 # 🚀 Java Clean Architecture com jUnit + Mockito + JaCoCo (100% Coverage)
 
-![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+## ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+<img src="https://raw.githubusercontent.com/DevAlanM/java-clean-architecture-tests/main/img/testes.png"/>
+
+
 
 ## Garantia
 
-Build falha se cobertura < 100%.
+### Build falha se cobertura < 100%.
 
-<img align="right" src="https://raw.githubusercontent.com/DevAlanM/java-clean-architecture-tests/main/img/testes.png" />
 
 ## Executar
 
